@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jaya4sri
-- 👀 I’m interested in everything...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ..
+- 👋 Hi, I’m @Jayasri
+- 👀 I’m interested in coding and learning new things
+- 🌱 I’m currently pursuing B-TECH
+- 💞️ I’m looking for ,]......
 
 <!---
 Jaya4sri/Jaya4sri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
